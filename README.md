@@ -29,7 +29,7 @@
 📫 **Connect With Me**
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/rameshwar-choure/)
-- 📧 Email: `rameshwar.yc@gmail.com`
+- 📧 Email: `chourerameshwar07@gmail.com`
 
 ---
 
