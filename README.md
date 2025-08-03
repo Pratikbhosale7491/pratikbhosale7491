@@ -58,16 +58,6 @@
 
 ---
 
-### ✍️ Recent DevOps Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- 🔧 *Automating EKS deployments with Terraform*
-- 🐳 *How to debug Docker container crashes like a pro*
-- ☸️ *Kubernetes: Liveness vs Readiness Probes*
-<!-- BLOG-POST-LIST:END -->
-
----
-
 ### 🤝 Let's Connect!
 
 - 📫 Email: **chourerameshwar07@gmail.com**
