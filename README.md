@@ -1,7 +1,7 @@
 
 
-<h1 align="center">🚀 Welcome to My GitHub Space 🚀</h1>
-<h1 align="center">🎓 I'm Rameshwar Choure 🎓</h1>
+<h1 align="center">Hi 👋, I'm Rameshwar Choure</h1>
+<h3 align="center">🚀 DevOps Engineer | CI/CD | Kubernetes | Docker | AWS Enthusiast</h3>
 ---
 
 ### 👨‍💻 About Me
