@@ -64,7 +64,6 @@
 - ### 🔗 [LinkedIn](https://www.linkedin.com/in/rameshwar-choure/)
 - ### 🐳 Docker Hub [![Docker Hub](https://img.shields.io/badge/DockerHub-rameshwar07-blue?logo=docker)](https://hub.docker.com/u/rameshwar07)
 - ### 📱 Instagram [![Instagram](https://img.shields.io/badge/Instagram-ram__c__07-pink?logo=instagram)](https://www.instagram.com/ram_c_07/)
-- ### 📂 [My Projects](https://github.com/Rameshwar07?tab=repositories)
 
 ---
 
