@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me
 
-- 🧠 **DevOps Engineer** with 2+ years of industry experience
+- 🧠 **DevOps Engineer** with almost 3 years of industry experience
 - ☁️ Specializing in **Cloud**, **CI/CD**, **Containerization**, and **Infrastructure as Code**
 - 🛠️ Hands-on with **Kubernetes**, **Docker**, **Jenkins**, **Terraform**, **AWS**
 - 🔁 Built and maintained end-to-end CI/CD pipelines using **Groovy**
