@@ -62,7 +62,7 @@
 - ### 📫 Email: **bhosalepratik769@gmail.com**
 - ### 🔗 [LinkedIn](http://www.linkedin.com/in/pratikbhosale00)
 - ### 🐳 Docker Hub [![Docker Hub](https://img.shields.io/badge/DockerHub-pratik7491-blue?logo=docker)](https://hub.docker.com/u/rameshwar07)
-- ### 📱 Instagram [![Instagram](https://img.shields.io/badge/Instagram-ram__c__07-pink?logo=instagram)](https://www.instagram.com/ram_c_07/)
+- ### 📱 Instagram [![Instagram](https://img.shields.io/badge/Instagram-ram__c__07-pink?logo=instagram)](https://www.instagram.com/bhosalepratik7191/)
 
 ---
 
