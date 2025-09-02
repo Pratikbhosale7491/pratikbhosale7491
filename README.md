@@ -60,6 +60,7 @@
 ### 🤝 Let's Connect!
 
 - ### 📫 Email: **bhosalepratik769@gmail.com**
+- ### 📫 Phone: **8975207399**
 - ### 🔗 [LinkedIn](http://www.linkedin.com/in/pratikbhosale00)
 - ### 🐳 Docker Hub [![Docker Hub](https://img.shields.io/badge/DockerHub-pratik7491-blue?logo=docker)](https://hub.docker.com/u/rameshwar07)
 
