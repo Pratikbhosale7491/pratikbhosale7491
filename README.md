@@ -1,12 +1,12 @@
 
 
-<h1 align="center">Hi 👋, I'm Rameshwar Choure</h1>
+<h1 align="center">Hi 👋, Pratik Bhosale</h1>
 <h3 align="center">🚀 DevOps Engineer | CI/CD | Kubernetes | Docker | AWS Enthusiast</h3>
 ---
 
 ### 👨‍💻 About Me
 
-- 🧠 **DevOps Engineer** with almost 3 years of industry experience
+- 🧠 **DevOps Engineer** with 6 Months  of internship experience
 - ☁️ Specializing in **Cloud**, **CI/CD**, **Containerization**, and **Infrastructure as Code**
 - 🛠️ Hands-on with **Kubernetes**, **Docker**, **Jenkins**, **Terraform**, **AWS**
 - 🔁 Built and maintained end-to-end CI/CD pipelines using **Groovy**
@@ -44,8 +44,7 @@
 ### 📜 Certifications
 
 - ✅ AWS Certified Cloud Practitioner 
-- ✅ AWS Certified Solution Architect
-- ✅ AWS Certified Developer Associate
+- ✅ AWS Certified Solution Architect (In Progress)
 
 ---
 
@@ -60,9 +59,9 @@
 
 ### 🤝 Let's Connect!
 
-- ### 📫 Email: **chourerameshwar07@gmail.com**
-- ### 🔗 [LinkedIn](https://www.linkedin.com/in/rameshwar-choure/)
-- ### 🐳 Docker Hub [![Docker Hub](https://img.shields.io/badge/DockerHub-rameshwar07-blue?logo=docker)](https://hub.docker.com/u/rameshwar07)
+- ### 📫 Email: **bhosalepratik769@gmail.com**
+- ### 🔗 [LinkedIn](http://www.linkedin.com/in/pratikbhosale00)
+- ### 🐳 Docker Hub [![Docker Hub](https://img.shields.io/badge/DockerHub-pratik7491-blue?logo=docker)](https://hub.docker.com/u/rameshwar07)
 - ### 📱 Instagram [![Instagram](https://img.shields.io/badge/Instagram-ram__c__07-pink?logo=instagram)](https://www.instagram.com/ram_c_07/)
 
 ---
